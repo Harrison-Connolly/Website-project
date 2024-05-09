@@ -1,0 +1,14 @@
+body {
+	background-color: red;
+	padding: 0;
+	margin: 0;
+}
+h1 {
+	background-color: pink;
+	color: purple;
+	height: 100px;
+}
+p {
+	background-color: grey;
+	height: 100px;
+}
