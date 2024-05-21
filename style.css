@@ -31,5 +31,6 @@ a {
 	font-size: larger;
 }
 img {
-	align: center;
+	width: 40%;
+	align-items: center;
 }
