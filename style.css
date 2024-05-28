@@ -2,19 +2,25 @@ body {
 	background-color: lightpink;
 	padding: 0;
 	margin: 0;
+	text-align: center;
 }
 h1 {
 	font-weight: bold;
 	background-color: orchid;
 	color: AntiqueWhite;
 	height: 100px;
+	margin-bottom: 0px;
 	text-align: center;
 	font-size: 80px;
 }
+h2 {
+	color: rgb(161, 83, 159);
+	text-decoration: italic;
+	font-size: 50px;
+}
 p {
-	background-color: orchid;
 	font-size: 40px;
-	color: antiquewhite;
+	color: orchid;
 	text-align: center;
 	font-weight: bold;
 	
@@ -31,6 +37,12 @@ a {
 	font-size: larger;
 }
 img {
-	width: 40%;
-	align-items: center;
+	width: 24%;
+	float: center;
+	height: auto;
+	margin-bottom: 30px;
+	margin-left: 10px;
+}
+span {
+	font-size: 10px;
 }
