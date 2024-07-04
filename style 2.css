@@ -17,14 +17,15 @@ h1 {
 }
 h2 {
 	color: orchid;
-	text-decoration: italic;
 	font-size: 50px;
 }
 p {
 	font-size: 30px;
-	color: orchid;
+	color: black;
 	text-align: center;
 	font-weight: bold;
+	margin-right: 15px;
+	margin-left: 15px;
 	
 }
 
@@ -34,9 +35,8 @@ a {
 	font-size: larger;
 }
 img {
-	max-height: 600px;
+	max-height: 700px;
 	width: 1400px;
-	float: center;
 	height: auto;
 	margin-bottom: 30px;
 	margin-left: 10px;
